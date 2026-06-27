@@ -1,10 +1,10 @@
-# 📝 Flask To-Do List Application
+ 📝 Flask To-Do List Application
 
 A simple **Python Full Stack CRUD Application** built using **Flask, SQLite, HTML, CSS, and JavaScript**. This project allows users to manage daily tasks with complete Create, Read, Update, and Delete (CRUD) functionality.
 
 ---
 
-## 🚀 Features
+🚀 Features
 
 - ➕ Add new tasks
 - 📋 View all tasks
@@ -15,23 +15,23 @@ A simple **Python Full Stack CRUD Application** built using **Flask, SQLite, HTM
 
 ---
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
-### Frontend
+# Frontend
 - HTML5
 - CSS3
 - JavaScript
 
-### Backend
+# Backend
 - Python
 - Flask
 
-### Database
+# Database
 - SQLite
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```
 todo-flask/
@@ -49,41 +49,6 @@ todo-flask/
 └── README.md
 ```
 
----
-
-## ⚙️ Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/todo-flask.git
-```
-
-### 2. Open the project
-
-```bash
-cd todo-flask
-```
-
-### 3. Install Flask
-
-```bash
-pip install flask
-```
-
-### 4. Run the application
-
-```bash
-python app.py
-```
-
-### 5. Open your browser
-
-```
-http://127.0.0.1:5000
-```
-
----
 
 ## 📌 CRUD Operations
 
@@ -104,6 +69,8 @@ http://127.0.0.1:5000
 - SQLite Database
 - JavaScript Fetch API
 - Frontend and Backend Integration
+
+---
 
 
 ⭐ If you like this project, don't forget to give it a Star!
